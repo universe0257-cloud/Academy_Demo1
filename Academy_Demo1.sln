@@ -4,6 +4,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L01_StandardIO", "L01_Stand
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "L02_Variable", "L02_Variable\L02_Variable.vcxproj", "{2751DB43-33CA-4AE1-8750-C18C8AA673E2}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "AI_Test", "AI_Test\AI_Test.vcxproj", "{122BBA97-1D5C-4304-9841-DD7F03EB6E77}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,5 +20,9 @@ Global
 		{2751DB43-33CA-4AE1-8750-C18C8AA673E2}.Debug|Any CPU.Build.0 = Debug|Win32
 		{2751DB43-33CA-4AE1-8750-C18C8AA673E2}.Release|Any CPU.ActiveCfg = Release|Win32
 		{2751DB43-33CA-4AE1-8750-C18C8AA673E2}.Release|Any CPU.Build.0 = Release|Win32
+		{122BBA97-1D5C-4304-9841-DD7F03EB6E77}.Debug|Any CPU.ActiveCfg = Debug|Win32
+		{122BBA97-1D5C-4304-9841-DD7F03EB6E77}.Debug|Any CPU.Build.0 = Debug|Win32
+		{122BBA97-1D5C-4304-9841-DD7F03EB6E77}.Release|Any CPU.ActiveCfg = Release|Win32
+		{122BBA97-1D5C-4304-9841-DD7F03EB6E77}.Release|Any CPU.Build.0 = Release|Win32
 	EndGlobalSection
 EndGlobal
